@@ -7,11 +7,8 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Log%20Analysis-red)
-
 ![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-orange)
-
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
@@ -428,7 +425,7 @@ This project was developed as part of cybersecurity and Python programming studi
 
 
 
-### Abdullah Hamar
+### Abdullah Ammar
 
 
 
